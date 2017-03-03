@@ -46,7 +46,7 @@
     color: #242729 !important;
 }
 
-.header-nav-link:hover .dropdown-caret{
+.header-nav-link:hover .dropdown-caret, .header-nav-link.selected .dropdown-caret{
     border-top-color: #242729 !important;
 }
 
