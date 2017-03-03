@@ -5,8 +5,7 @@ A chrome extensition for theme color replacement of Github.
 ![github-search](http://i1.piimg.com/567571/d6a5af7220705152.gif)
 
 ## Download
-* [download from Chrome Webstore](https://chrome.google.com/webstore/detail/orbithub/bbmpajfkliaoffnjmllekijamdbdcaig)
-* [download from BaiduYun](https://pan.baidu.com/s/1miS99NU)
+* [download from Chrome Webstore](https://chrome.google.com/webstore/detail/infine/dbohaafgjalcfogbnfjdfljdhknlfibd)
 
 ## License
 MIT
