@@ -13,7 +13,7 @@
     "default_title":"Theme color replacement of Github"
   },
   "content_scripts":[{
-      "matches": "*://github.com/*",
+      "matches": ["*://github.com/*"],
       "css": ["css/infine.css"]
   }]
 }

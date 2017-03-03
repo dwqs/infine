@@ -1,3 +1,105 @@
-body{
-    background: red;
+/** --- header --- **/
+
+.header{
+    color: #535a60 !important;
+    background-color: #FAFAFB !important;
+    box-shadow: 0 1px 0 rgba(12,13,14,0.15);
 }
+
+.header-logo-invertocat{
+    color: #0095ff !important;
+}
+
+.header-logo-invertocat:hover{
+    color: #07c !important;
+}
+
+.header .header-search-wrapper{
+    background-color: #fff !important;
+    color: #6a737c !important;
+    border: 1px solid #c8ccd0 !important;
+    box-shadow: inset 0 0 1px rgba(145,153,161,0.2), 0 0 0 rgba(255,255,255,0) !important;
+}
+
+.header .header-search-input::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #848d95 !important;
+}
+.header .header-search-input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #848d95 !important;
+}
+.header .header-search-input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #848d95 !important;
+}
+.header .header-search-input:-moz-placeholder {
+    /* Firefox 18- */
+    color: #848d95 !important;
+}
+
+.header-nav-link{
+    color: #535a60 !important;
+}
+
+.header-nav-link:hover{
+    color: #242729 !important;
+}
+
+.header-nav-link:hover .dropdown-caret{
+    border-top-color: #242729 !important;
+}
+
+.dropdown-item:hover{
+    background-color: #0095FF !important;
+}
+
+.notification-indicator:hover .mail-status{
+    background-color: #0095FF !important;
+}
+
+.notification-indicator .mail-status{
+    border: 2px solid transparent !important;
+}
+
+.header .header-search-scope{
+    color: #586069 !important;
+    border-right-color: #ccc !important;
+}
+
+/** --- header --- **/
+
+/** --- repo --- **/
+.mini-repo-list-item .repo,strong,
+.markdown-body h1, .markdown-body h2,
+.markdown-body h3, .markdown-body h4,
+.markdown-body h5, .markdown-body h6{
+    font-weight: 400 !important;
+}
+
+/** --- repo --- **/
+
+/** --- pinned repo --- **/
+
+.js-pinned-repos-reorder-container .text-bold  {
+    font-weight: 400 !important;
+}
+
+/** --- pinned repo --- **/
+
+/** --- user's repos --- **/
+
+.user-repositories-list h3{
+    font-weight: 400 !important;
+}
+
+/** --- user's repos --- **/
+
+/** --- user's star repos --- **/
+
+.d-inline-block h3{
+    font-weight: 400 !important;
+}
+
+/** --- user's star repos --- **/
+
