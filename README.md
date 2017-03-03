@@ -2,7 +2,7 @@
 A chrome extensition for theme color replacement of Github.
 
 ## Show case
-![github-search](http://i1.piimg.com/567571/d6a5af7220705152.gif)
+![infine](http://7mno74.com1.z0.glb.clouddn.com/22222222.png)
 
 ## Download
 * [download from Chrome Webstore](https://chrome.google.com/webstore/detail/infine/dbohaafgjalcfogbnfjdfljdhknlfibd)
