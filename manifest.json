@@ -1,0 +1,19 @@
+{
+  "manifest_version":2,
+  "name":"infine",
+  "description":"A chrome extensition for theme color replacement of Github",
+  "version":"1.0.0",
+  "icons": {
+    "16": "images/github16.png",
+    "48": "images/github48.png",
+    "128": "images/github128.png"
+  },
+  "browser_action":{
+    "default_icon":"images/github48.png",
+    "default_title":"Theme color replacement of Github"
+  },
+  "content_scripts":[{
+      "matches": "https://github.com/*",
+      "css": []
+  }]
+}
