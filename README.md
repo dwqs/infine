@@ -1,3 +1,4 @@
+![rating](https://img.shields.io/chrome-web-store/stars/dbohaafgjalcfogbnfjdfljdhknlfibd.svg)
 ## Overview
 A chrome extensition for theme color replacement of Github.
 
