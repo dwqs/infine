@@ -3,7 +3,7 @@
 A chrome extensition for theme color replacement of Github.
 
 ## Show case
-![infine](https://lh3.googleusercontent.com/yaXTrCu7Ha6za9BjjY-iH5WOz-EgPHt_fkQrlsuLK9myT_jsEfVoSn_PFkaXz5SzjjscltgH=s1280-h800-e365-rw)
+![infine](https://sfault-image.b0.upaiyun.com/228/477/2284774815-5971c2245b48e_articlex)
 
 ## Download
 * [download from Chrome Webstore](https://chrome.google.com/webstore/detail/infine/dbohaafgjalcfogbnfjdfljdhknlfibd)
