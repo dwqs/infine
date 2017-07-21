@@ -38,15 +38,15 @@
     color: #848d95 !important;
 }
 
-.header-nav-link{
+.header-navlink{
     color: #535a60 !important;
 }
 
-.header-nav-link:hover{
+.header-navlink:hover{
     color: #242729 !important;
 }
 
-.header-nav-link:hover .dropdown-caret, .header-nav-link.selected .dropdown-caret{
+.header-navlink:hover .dropdown-caret, .header-navlink.selected .dropdown-caret{
     border-top-color: #242729 !important;
 }
 
