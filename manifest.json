@@ -2,7 +2,7 @@
   "manifest_version":2,
   "name":"infine",
   "description":"A chrome extensition for theme color replacement of Github",
-  "version":"2.1.1",
+  "version":"2.1.2",
   "icons": {
     "16": "images/github16.png",
     "48": "images/github48.png",
